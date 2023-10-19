@@ -1,9 +1,5 @@
 # Business Card 
-
-<video width="320" height="240" controls>
-  <source src="https://github.com/akshikamde21/business-card/raw/main/assets/business%20card%20vid.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+View website [here](https://akshikamde21.github.io/business-card/)
 
 ## Description
 
